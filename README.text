@@ -1,0 +1,2 @@
+Using the tutorial from University of Colorado (Brunnen 2018), we implement a 4-bit computer in VHDL.  The overall system diagram is shown here, which relates to the top level entity, ‘computer_4bit’.  The system is implemented in VHDL on a DE10 Lite FPGA.
+
